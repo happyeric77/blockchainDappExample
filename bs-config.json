@@ -1,0 +1,6 @@
+{
+    "port": 9487,
+    "server": {
+        "baseDir": ["./src", "./build/contracts", "./node_modules"]
+    }
+}
